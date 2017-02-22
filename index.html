@@ -89,13 +89,14 @@
           <div class="list-group">
 
             <div class="list-group-item">
-              <h3 class="list-group-item-heading">Superfast Python - how to accelerate Python for your research</h3>
+              <h3 class="list-group-item-heading">Cython - how to speed up Python for your research</h3>
               <!--<p class="list-group-item-text"></p>-->
             </div>
             <div class="list-group-item" style="min-height: 300px; vertical-align: top;">
               <h4 class="list-group-item-heading">Description</h4>
-              &mdash;
+              Cython is a superset of the Python language, aiming to provide greater performance in the CPython implementation of the language. This is achieved by user given type annotations, and explicit disabling of language features in order to provide greater speed where this is critical in applications. Code is transformed using the Cython compiler, which generates C code; this is then compiled with a C compiler into a library, which can then be imported by Python as with any other module. In addition, C (and in simple cases C++) code can be used directly from Cython through the use of source and header files; this is particularly useful in scientific computing when wanting to call functions from an external library.
 
+              In this talk I'll give a quick overview of the features, common use cases, potential pitfalls and show a few real-world type examples.
               </div>
             <div class="list-group-item">
               <h4 class="list-group-item-heading">Who</h4>
