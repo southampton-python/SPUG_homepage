@@ -3,7 +3,7 @@ I usually publicise our meetings via:
 - Southampton Python Google Group
 - Southampton Python slack chat (events channel)
 - An event on the CMG website (http://cmg.soton.ac.uk/)
-- python-uk mailing list (https://mail.python.org/mailman/listinfo/python-uk)
+- uk.python.org listing (contact news@uk.python.org)
 - Hampshire LUG mailing list (http://mailman.lug.org.uk/mailman/listinfo/hampshire)
 - Boldrewood level 5 list?
 
